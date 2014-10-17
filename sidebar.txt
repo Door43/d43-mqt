@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqt:home|Door43 (mqt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqt|d43-mqt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqt/archive/master.zip|d43-mqt.zip]]
+
+**Recent Changes**
+{{changes>ns = mqt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqt|Ethnologue data]]
+
